@@ -2,7 +2,7 @@
 Welcome to me profile!!!
 I'm Kuba, I am Fullstack developer. I am from 🇵🇱 <b>Katowice, Poland</b>
 
-My skills:
+Thing I code (think I can code) in:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,nodejs,express,mysql)](https://skillicons.dev)
 
