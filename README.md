@@ -1,6 +1,6 @@
 ## Hi, I'm Kuba 👋👨🏼‍💻
 
-[npm]
+[npm]:https://npmjs.com/~bradgarropy
 <!--
 **JakubPolchlopek/jakubpolchlopek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
