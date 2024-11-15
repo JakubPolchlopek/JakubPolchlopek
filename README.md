@@ -1,5 +1,6 @@
 ## Hello there, I'm Kuba 👋👨🏼‍💻
-Welcome to me profile
+Welcome to me profile!!!
+I'm Kuba, I am Fullstack developer. I am from 🇵🇱 <b>Katowice, Poland</b>
 
 My skills:
 
