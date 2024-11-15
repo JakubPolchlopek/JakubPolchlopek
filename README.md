@@ -13,7 +13,7 @@ I am a student at ZSEiI in Sosnowiec. I am studing here programming but me journ
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,nodejs,express,mysql)](https://skillicons.dev)
 
-You can contact me on:
+## **You can contact me on**
 
 <a href="https://www.instagram.com/_kuba_pol_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/></a>
 <a href="https://www.facebook.com/profile.php?id=100021376008073" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40"/></a>
