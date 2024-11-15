@@ -2,11 +2,7 @@
 Welcome to me profile
 
 My skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,mysql,nodejs,sass,ts,express " />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,nodejs,express,mysql)](https://skillicons.dev)
 
 
 <!--
