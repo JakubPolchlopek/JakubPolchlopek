@@ -13,7 +13,7 @@ I am a student at ZSEiI in Sosnowiec. I am studing here programming but me journ
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,ts,nodejs,express,mysql)](https://skillicons.dev)
 
-## **Tools **
+## **Tools**
 [![My tools](https://skillicons.dev/icons?i=github,vscode,figma,xd)](https://skillicons.dev)
 ## **You can contact me on**
 
